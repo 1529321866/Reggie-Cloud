@@ -1,0 +1,96 @@
+{
+  "groups": [
+    {
+      "name": "starshine.alipay",
+      "type": "top.starshine.config.AlipayTemplate",
+      "sourceType": "top.starshine.config.AlipayTemplate"
+    }
+  ],
+  "properties": [
+    {
+      "name": "starshine.alipay.alipay-public-key",
+      "type": "java.lang.String",
+      "description": "应用公钥, 支付宝公钥, 查看地址：https:\/\/openhome.alipay.com\/platform\/keyManage.htm 对应APPID下的支付宝公钥。",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": ""
+    },
+    {
+      "name": "starshine.alipay.app-id",
+      "type": "java.lang.String",
+      "description": "在支付宝创建的应用的ID",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": ""
+    },
+    {
+      "name": "starshine.alipay.charset",
+      "type": "java.lang.String",
+      "description": "字符编码格式",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "UTF-8"
+    },
+    {
+      "name": "starshine.alipay.encrypt-key",
+      "type": "java.lang.String",
+      "description": "接口加密密钥",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": ""
+    },
+    {
+      "name": "starshine.alipay.encrypt-type",
+      "type": "java.lang.String",
+      "description": "加密类型",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "AES"
+    },
+    {
+      "name": "starshine.alipay.gateway-url",
+      "type": "java.lang.String",
+      "description": "正式支付宝网关； https:\/\/openapi.alipay.com\/gateway.do",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "https:\/\/openapi.alipaydev.com\/gateway.do"
+    },
+    {
+      "name": "starshine.alipay.merchant-private-key",
+      "type": "java.lang.String",
+      "description": "应用私钥, 商户私钥, 您的 PKCS8 格式 RSA2 私钥",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": ""
+    },
+    {
+      "name": "starshine.alipay.notify-url",
+      "type": "java.lang.String",
+      "description": "服务器[异步通知]页面路径  需http:\/\/格式的完整路径，不能加?id=123这类自定义参数，必须外网可以正常访问 支付宝会悄悄的给我们发送一个请求，告诉我们支付成功的信息",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "http:\/\/公网IP:官网端口\/api\/ss-payment\/aliPay\/notify\/async"
+    },
+    {
+      "name": "starshine.alipay.return-url",
+      "type": "java.lang.String",
+      "description": "页面跳转同步通知页面路径 需http:\/\/格式的完整路径，不能加?id=123这类自定义参数，必须外网可以正常访问 同步通知，支付成功，一般跳转到成功页",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "http:\/\/localhost:8898\/api\/ss-payment\/aliPay\/notify\/callback"
+    },
+    {
+      "name": "starshine.alipay.sign-type",
+      "type": "java.lang.String",
+      "description": "签名方式",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "RSA2"
+    },
+    {
+      "name": "starshine.alipay.sys-service-provider-id",
+      "type": "java.lang.String",
+      "description": "绑定的商家账号（PID）",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": ""
+    },
+    {
+      "name": "starshine.alipay.timeout",
+      "type": "java.lang.String",
+      "description": "订单超时时间，到达超时时间后自动关闭订单不能再继续支付",
+      "sourceType": "top.starshine.config.AlipayTemplate",
+      "defaultValue": "30m"
+    }
+  ],
+  "hints": []
+}

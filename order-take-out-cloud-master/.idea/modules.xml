@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/openOrderTakeOutCloudTwo.iml" filepath="$PROJECT_DIR$/openOrderTakeOutCloudTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-common/ss-common.iml" filepath="$PROJECT_DIR$/ss-common/ss-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-coupon/ss-coupon.iml" filepath="$PROJECT_DIR$/ss-coupon/ss-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-gateway/ss-gateway.iml" filepath="$PROJECT_DIR$/ss-gateway/ss-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-login/ss-login.iml" filepath="$PROJECT_DIR$/ss-login/ss-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-order/ss-order.iml" filepath="$PROJECT_DIR$/ss-order/ss-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-payment/ss-payment.iml" filepath="$PROJECT_DIR$/ss-payment/ss-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-product/ss-product.iml" filepath="$PROJECT_DIR$/ss-product/ss-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-shoppoingcart/ss-shoppoingcart.iml" filepath="$PROJECT_DIR$/ss-shoppoingcart/ss-shoppoingcart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss-user/ss-user.iml" filepath="$PROJECT_DIR$/ss-user/ss-user.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/openOrderTakeOutCloudTwo.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/openOrderTakeOutCloudTwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/order-take-out-cloud-master.iml" filepath="$PROJECT_DIR$/.idea/order-take-out-cloud-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-common/ss-common.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/ss-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/ss-coupon.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/ss-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-gateway/ss-gateway.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-gateway/ss-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-login/ss-login.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/ss-login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-order/ss-order.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/ss-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/ss-payment.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/ss-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-product/ss-product.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/ss-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/ss-shoppoingcart.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/ss-shoppoingcart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-user/ss-user.iml" filepath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/ss-user.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,25 @@
+server:
+  # 配置端口
+  port: 8400
+
+spring:
+  application:
+    # 产品服务
+    name: ss-product
+  cloud:
+    nacos:
+      username: nacos
+      password: nacos
+      discovery:
+        enabled: true
+        server-addr: localhost:8848
+        namespace: 1b197ed1-96de-42bd-bc3a-122b8ff5d520
+      config:
+        server-addr: localhost:8848
+        namespace: 1b197ed1-96de-42bd-bc3a-122b8ff5d520
+        file-extension: yaml
+        # 加载配置中心的文件
+        extension-configs:
+          - data-id: ss-common.yaml
+            group: DEFAULT_GROUP
+            refresh: true

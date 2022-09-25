@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-coupon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-shoppoingcart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ss-user" charset="UTF-8" />
+  </component>
+</project>
