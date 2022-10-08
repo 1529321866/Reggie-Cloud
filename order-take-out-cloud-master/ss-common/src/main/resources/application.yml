@@ -41,8 +41,6 @@
 #      connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
 #
 #dubbo:
-#  application:
-#    name: ss-common
 #  # 元数据配置
 #  metadata-report:
 #    address: nacos://127.0.0.1:8848
@@ -58,8 +56,20 @@
 #
 #
 #
+#
+# 配置dubbo provider 和 consumer 的dubbofilter
+# dubbofilter的文件路径
+# resources/META-INF/dubbo/internal/com.alibaba.dubbo.rpc.Filter
+# 缺少的话，ThreadLocal获取为null
+dubbo:
+  provider:
+    filter: providerContextFilter
+  consumer:
+    filter: consumerContextFilter
+
 
 starshine:
+
   thread:
     pool:
       maximum-pool-size: 50
