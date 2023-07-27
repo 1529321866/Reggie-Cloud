@@ -1,32 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ee8146-ddae-4c87-8231-1005ecd14eb1" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="83ee8146-ddae-4c87-8231-1005ecd14eb1" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_config_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_discovery_2_2_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_common_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqlDataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alibaba_commons_2_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_alibaba_commons_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_config_2_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_alibaba_nacos_discovery_2_2_7_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_dubbo_2_2_7_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_cloud_spring_cloud_starter_dubbo_2_2_5_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_client_2_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_nacos_nacos_api_1_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_24_1_1_jre.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_2_7_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_2_7_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_2_7_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_compatible_2_7_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_autoconfigure_compatible_2_7_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_starter_2_7_13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_dubbo_dubbo_spring_boot_starter_2_7_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/app/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/ss-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/ss-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/top/starshine/commons/model/web/method/AesDecryptArgumentResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/top/starshine/commons/model/web/method/AesDecryptArgumentResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/top/starshine/commons/model/web/method/JsonFieldArgumentResolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/classes/top/starshine/commons/model/web/method/JsonFieldArgumentResolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/CouponConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/CouponConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/OrderConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/OrderConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/PaymentConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/PaymentConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/ProductConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/ProductConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/ShoppingCartConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/ShoppingCartConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/UserConverterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-common/target/generated-sources/annotations/top/starshine/commons/converter/UserConverterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/ss-coupon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/ss-coupon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/controller/CouponBatchController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/controller/CouponBatchController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/dubbo/CouponDubboServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/dubbo/CouponDubboServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/mq/consumer/CouponConsumerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/mq/consumer/CouponConsumerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/service/impl/CouponBatchDetailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/service/impl/CouponBatchDetailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/service/impl/CouponServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/target/classes/top/starshine/service/impl/CouponServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-gateway/ss-gateway.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-gateway/ss-gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/ss-login.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/ss-login.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/target/classes/top/starshine/mq/consumer/ShortMessageConsumerMQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/target/classes/top/starshine/mq/consumer/ShortMessageConsumerMQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/target/classes/top/starshine/service/impl/LoginServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-login/target/classes/top/starshine/service/impl/LoginServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/ss-order.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/ss-order.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/controller/BuildOrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/controller/BuildOrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/dubbo/OrderDubboServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/dubbo/OrderDubboServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/mq/consumer/OrderConsumerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/mq/consumer/OrderConsumerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/mq/producer/OrderSendMQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/mq/producer/OrderSendMQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/TradeBuilderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/TradeBuilderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/impl/OrderDetailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/impl/OrderDetailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/impl/TradeRefundServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/impl/TradeRefundServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/ComputedBillPriceRenderStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/ComputedBillPriceRenderStepImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/ComputedChildOrderBillPriceRenderStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/ComputedChildOrderBillPriceRenderStepImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/ComputedFreightPriceRenderStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/ComputedFreightPriceRenderStepImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/FullDiscountStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/FullDiscountStepImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/GenerationRenderStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/GenerationRenderStepImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/LoadCouponRenderStepImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-order/target/classes/top/starshine/service/step/LoadCouponRenderStepImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/ss-payment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/ss-payment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/META-INF/spring-configuration-metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/META-INF/spring-configuration-metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/config/AlipayTemplate$BizContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/config/AlipayTemplate$BizContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/config/AlipayTemplate$RefundBizContent.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/config/AlipayTemplate$RefundBizContent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/config/AlipayTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/config/AlipayTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/dubbo/PaymentDubboServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/dubbo/PaymentDubboServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/mq/consumer/SystemHandleRefundConsumerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/mq/consumer/SystemHandleRefundConsumerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/mq/producer/PaymentSendMQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/mq/producer/PaymentSendMQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/service/impl/AlipayPaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/service/impl/AlipayPaymentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/service/impl/TradeRefundRecordServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/target/classes/top/starshine/service/impl/TradeRefundRecordServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/ss-product.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/ss-product.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/controller/CachePageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/controller/CachePageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/controller/ProductController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/dubbo/ProductDubboServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/dubbo/ProductDubboServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/service/impl/LoadHomePageCacheService.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/service/impl/LoadHomePageCacheService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-product/target/classes/top/starshine/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/ss-shoppoingcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/ss-shoppoingcart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/target/classes/top/starshine/service/impl/ShoppingCartServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/target/classes/top/starshine/service/impl/ShoppingCartServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/ss-user.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/ss-user.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/target/classes/top/starshine/controller/UserAddressBookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/target/classes/top/starshine/controller/UserAddressBookController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/target/classes/top/starshine/dubbo/UserDubboServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/target/classes/top/starshine/dubbo/UserDubboServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/target/classes/top/starshine/service/impl/UserAddressBookServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/order-take-out-cloud-master/ss-user/target/classes/top/starshine/service/impl/UserAddressBookServiceImpl.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="order-take-out-cloud-master" />
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2E7zTcWRCqmff9iCt80Ui6tL2Il" />
-  <component name="PropertiesComponent">
-    <property name="RequestMappingsPanelOrder0" value="0" />
-    <property name="RequestMappingsPanelOrder1" value="1" />
-    <property name="RequestMappingsPanelWidth0" value="75" />
-    <property name="RequestMappingsPanelWidth1" value="75" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/IDEA Projects/dubbo-demo" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/newIDEAproject/reggie-takeout-cloud&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;176a4de56086056e26c4e43ba1392f80&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2.1\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\newIDEAproject\reggie-takeout-cloud" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\newIDEAproject\reggie-takeout-cloud" />
       <recent name="E:\git projects\order-take-out-cloud-master\order-take-out-cloud-master\ss-common\src\main\resources" />
     </key>
   </component>
@@ -36,90 +159,88 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ShoppingCartApplication">
+  <component name="RunManager" selected="Spring Boot.LoginApplication">
     <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ss-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.GatewayApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.starshine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.GatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="LoginApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" />
+      <output_file path="D:\logs\login.txt" is_save="true" />
       <module name="ss-login" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.LoginApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.starshine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.LoginApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ss-product" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.ProductApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.starshine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.ProductApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="ShoppingCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ss-shoppoingcart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.ShoppingCartApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.starshine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.ShoppingCartApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="ss-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.UserApplication" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="top.starshine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="top.starshine.UserApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.LoginApplication" />
+      <item itemvalue="Spring Boot.ProductApplication" />
+      <item itemvalue="Spring Boot.ShoppingCartApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ProductApplication" />
-        <item itemvalue="Spring Boot.ShoppingCartApplication" />
         <item itemvalue="Spring Boot.LoginApplication" />
         <item itemvalue="Spring Boot.UserApplication" />
+        <item itemvalue="Spring Boot.ShoppingCartApplication" />
+        <item itemvalue="Spring Boot.ProductApplication" />
         <item itemvalue="Spring Boot.GatewayApplication" />
       </list>
     </recent_temporary>
@@ -150,6 +271,7 @@
       </serviceView>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="项目级" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\acer\AppData\Roaming\Subversion</configuration>
   </component>
@@ -171,10 +293,26 @@
       <workItem from="1663836583180" duration="4768000" />
       <workItem from="1663910540232" duration="7653000" />
       <workItem from="1663939250678" duration="2304000" />
+      <workItem from="1690323094503" duration="10977000" />
+      <workItem from="1690377391983" duration="5340000" />
+      <workItem from="1690383554608" duration="4923000" />
+      <workItem from="1690396329108" duration="1317000" />
+      <workItem from="1690429417375" duration="3544000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

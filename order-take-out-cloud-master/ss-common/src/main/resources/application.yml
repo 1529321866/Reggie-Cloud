@@ -8,9 +8,9 @@
 #    allow-bean-definition-overriding: true
 #  datasource:
 #    #   数据源基本配置
-#    url: jdbc:mysql://localhost:3305/open_order_take_out?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
+#    url: jdbc:mysql://localhost:3306/open_order_take_out?useUnicode=true&characterEncoding=utf-8&serverTimezone=Asia/Shanghai
 #    username: root
-#    password: 123456
+#    password: 1234
 #    driver-class-name: com.mysql.cj.jdbc.Driver
 #    type: com.alibaba.druid.pool.DruidDataSource
 #    #   数据源其他配置

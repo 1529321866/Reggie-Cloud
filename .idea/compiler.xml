@@ -7,28 +7,28 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ss-gateway" />
-        <module name="ss-product" />
-        <module name="ss-common" />
-        <module name="ss-shoppoingcart" />
-        <module name="ss-login" />
-        <module name="ss-order" />
-        <module name="ss-payment" />
-        <module name="ss-coupon" />
         <module name="ss-user" />
+        <module name="ss-coupon" />
+        <module name="ss-common" />
+        <module name="ss-payment" />
+        <module name="ss-shoppoingcart" />
+        <module name="ss-product" />
+        <module name="ss-gateway" />
+        <module name="ss-order" />
+        <module name="ss-login" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="openOrderTakeOutCloudTwo" target="8" />
-      <module name="ss-common" target="8" />
-      <module name="ss-coupon" target="8" />
-      <module name="ss-gateway" target="8" />
-      <module name="ss-login" target="8" />
-      <module name="ss-order" target="8" />
-      <module name="ss-payment" target="8" />
-      <module name="ss-product" target="8" />
-      <module name="ss-shoppoingcart" target="8" />
-      <module name="ss-user" target="8" />
+      <module name="openOrderTakeOutCloudTwo" target="1.8" />
+      <module name="ss-common" target="1.8" />
+      <module name="ss-coupon" target="1.8" />
+      <module name="ss-gateway" target="1.8" />
+      <module name="ss-login" target="1.8" />
+      <module name="ss-order" target="1.8" />
+      <module name="ss-payment" target="1.8" />
+      <module name="ss-product" target="1.8" />
+      <module name="ss-shoppoingcart" target="1.8" />
+      <module name="ss-user" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

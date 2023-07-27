@@ -2,14 +2,25 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-coupon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-gateway/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-login" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-login/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-order/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-payment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-payment/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-product/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-shoppoingcart/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-take-out-cloud-master/ss-user/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -13,8 +13,8 @@ import top.starshine.commons.entity.user.UserVo;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2022-09-18T19:03:54+0800",
-    comments = "version: 1.4.2.Final, compiler: javac, environment: Java 1.8.0_172 (Oracle Corporation)"
+    date = "2023-07-27T11:55:13+0800",
+    comments = "version: 1.4.2.Final, compiler: javac, environment: Java 1.8.0_371 (Oracle Corporation)"
 )
 @Component
 public class UserConverterImpl implements UserConverter {
